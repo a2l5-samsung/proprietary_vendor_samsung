@@ -77,9 +77,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/beyond2lte/proprietary/vendor/lib/hw/hwcomposer.exynos9820.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.exynos9820.so \
     vendor/samsung/beyond2lte/proprietary/vendor/lib/hw/memtrack.exynos9820.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.exynos9820.so \
     vendor/samsung/beyond2lte/proprietary/vendor/lib/hw/sensors.exynos9820.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.exynos9820.so \
-    vendor/samsung/beyond2lte/proprietary/vendor/lib/hw/sound_trigger.primary.exynos9820.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sound_trigger.primary.exynos9820.so \
     vendor/samsung/beyond2lte/proprietary/vendor/lib/lib_SamsungRec_07010.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SamsungRec_07010.so \
-    vendor/samsung/beyond2lte/proprietary/vendor/lib/libaudio_soundtrigger.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudio_soundtrigger.so \
     vendor/samsung/beyond2lte/proprietary/vendor/lib/libaudioproxy.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudioproxy.so \
     vendor/samsung/beyond2lte/proprietary/vendor/lib/libbauthserver.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbauthserver.so \
     vendor/samsung/beyond2lte/proprietary/vendor/lib/libbauthtzcommon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbauthtzcommon.so \
