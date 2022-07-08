@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5xelte/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001b.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001b.tlbin \
     vendor/samsung/a5xelte/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/a5xelte/proprietary/vendor/bin/cbd:$(TARGET_COPY_OUT_VENDOR)/bin/cbd \
-    vendor/samsung/a5xelte/proprietary/vendor/bin/sswap:$(TARGET_COPY_OUT_VENDOR)/bin/sswap \
     vendor/samsung/a5xelte/proprietary/etc/Tfa9897.cnt:$(TARGET_COPY_OUT_SYSTEM)/etc/Tfa9897.cnt \
     vendor/samsung/a5xelte/proprietary/etc/sec_s3fwrn5s_rfreg.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/sec_s3fwrn5s_rfreg.bin \
     vendor/samsung/a5xelte/proprietary/vendor/etc/wifi/bcmdhd_apsta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_apsta.bin \
